@@ -10,8 +10,6 @@ export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}
 export ICON=https://github.com/itgmania/itgmania/raw/refs/heads/release/Data/logo.svg
 export DESKTOP=/usr/share/applications/itgmania.desktop
 export STARTUPWMCLASS=ITGmania
-export DEPLOY_GTK=1
-export GTK_DIR=gtk-3.0
 export DEPLOY_OPENGL=1
 
 # Deploy dependencies
